@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4940
+
+  Note: if you are actively using tabs in VIM, this script will probably be of no use to you.
+
+  The script is pretty similar to the miniBufExpl, except it uses vim |tabline| instead of dedicated split to show your buffer list. For detailed user manual type ":h BufLine" command after you install the srcipt.
